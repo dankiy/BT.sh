@@ -11,4 +11,5 @@ By default these values are set to download data between 2013 and 2018 inclusive
 Code adapted from examples shown in Chapter 2 of: 
 “Data Science on the Google Cloud Platform by Valliappa Lakshmanan (O’Reilly). Copyright 2018 Google Inc., 978-1-491-97456-8.”
 Please refer to that book for details of how the code works if unsure.
+
 You can also visit the github repo for this chaper here: https://github.com/GoogleCloudPlatform/data-science-on-gcp/tree/master/02_ingest
